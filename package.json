@@ -1,0 +1,11 @@
+{
+  "name": "advancedsoliditybootcamp",
+  "version": "1.0.0",
+  "description": "A space with my homeworks for Solidity Advanced Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton",
+  "license": "ISC"
+}
