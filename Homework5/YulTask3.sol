@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.26;
+pragma solidity 0.8.28;
 
 contract SubOverflow {
     // Modify this function so that on overflow it returns the value 0
